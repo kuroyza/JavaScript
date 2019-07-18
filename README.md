@@ -1,2 +1,2 @@
 # Course_JavaScript
-These are some of Notes &amp; Challenge solution
+These are some Notes &amp; Challenges solution
